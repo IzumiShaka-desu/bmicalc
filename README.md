@@ -5,5 +5,5 @@ Body Mass Index Calculator
 
 
 
-- [![Screenshot](https://flutter.dev/docs/get-started/codelab)]
-- [![Screenshot](https://flutter.dev/docs/cookbook)]
+- [![Screenshot](https://github.com/IzumiShaka-desu/bmicalc/raw/master/screenshot/Screenshot_2020-08-09-12-00-48-345_com.example.bmicalc.png)]
+- [![Screenshot](https://github.com/IzumiShaka-desu/bmicalc/raw/master/screenshot/Screenshot_2020-08-09-12-00-48-345_com.example.bmicalc.png)]
